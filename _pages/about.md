@@ -42,5 +42,5 @@ Career:
 
 2022-now Institute for AI Industry Research (AIR), Tsinghua University, Research Assistant Professor
 
-2018-2021 SenseTime. Intern, Researcher, Senior Researcher and team leader (10 fulltime researchers and 20 interns)
+2018-2021 SenseTime. Intern, Researcher, Senior Researcher and team leader (around 10 fulltime researchers and engineers, with 20 interns for research and product development)
 
