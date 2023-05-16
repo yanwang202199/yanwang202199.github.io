@@ -13,6 +13,7 @@ ECCV 2022
 AAAI 2023  
 ICCV 2023  
 NeurIPS 2023  
+ICML 2023 Workshop "Neural Compression: From Information Theory to Applications".
 
 Journal Reviewer  
 ESWA  
