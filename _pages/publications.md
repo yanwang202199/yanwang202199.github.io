@@ -18,7 +18,7 @@ Selected Publications:
 
 4. Lina Guo, Xinjie Shi, Dailan He, Yuanyuan Wang, Rui Ma, Hongwei Qin, Yan Wang, Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain, CVPR, 2022.
 
-5. Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang, ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding, CVPR, 2022.
+5. Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang, ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding, CVPR, 2022. oral.  
 
 6. Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin, Checkerboard context model for efficient learned image compression, CVPR, 2021.
 
