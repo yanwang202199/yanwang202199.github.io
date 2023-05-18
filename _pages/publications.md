@@ -23,3 +23,11 @@ Selected Publications:
 6. Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin, Checkerboard context model for efficient learned image compression, CVPR, 2021.
 
 7. Rundong Li, Yan Wang, Feng Liang, Hongwei Qin, Junjie Yan, Rui Fan, Fully quantized network for object detection, CVPR, 2019.
+
+
+  
+  
+Selected tech reports and preprints:  
+1. Yu, H., Sun, Q., Hu, J., Xue, X., Luo, J., He, D., Li, Y., Wang, P., Wang, Y., Dai, Y. and Wang, Y., 2022. Evaluating the Practicality of Learned Image Compression. arXiv preprint arXiv:2207.14524.  
+
+2. He, D., Yang, Z., Chen, Y., Zhang, Q., Qin, H. and Wang, Y., 2022. Post-training quantization for cross-platform learned image compression. arXiv preprint arXiv:2202.07513.
