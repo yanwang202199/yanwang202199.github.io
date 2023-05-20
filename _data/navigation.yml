@@ -20,6 +20,9 @@ main:
     
   - title: "For students and interns"
     url: /interns/  
+    
+  - title: "Recommended Resources"
+    url: /resources/ 
 
   #- title: "Teaching"
   #  url: /teaching/    
