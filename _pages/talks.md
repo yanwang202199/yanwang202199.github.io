@@ -18,15 +18,20 @@ Panel, VCIP 2022
 http://www.vcip2022.org/Panel2.html  
 Panel Title:Deep Learning based Image and Video Compression  
 
+2022.12  
+HORIZON robitics，Compressive Neural Inference  
 
 2023.4   
 Livevideostack 2022, Towards Practical AI Image Coding
 
 2023.4  
-Internal, Compression for efficient AI and AGI
+Internal with Xiaomi, Compression for efficient AI and AGI
 
 2023.5  
 Peking University, Principled Approaches to Neural Image and Video Compression
 
 2023.5  
-NTU-Tsinghua Research Workshop on Sustainable Infrastructure, Green neural codec: learning to compress for efficiency
+NTU-Tsinghua Research Workshop on Sustainable Infrastructure, Green neural codec: learning to compress for efficiency  
+
+2023.5  
+kuaishou, Towards Practical AI-based Image and Video Coding
