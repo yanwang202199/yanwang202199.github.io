@@ -34,4 +34,7 @@ Peking University, Principled Approaches to Neural Image and Video Compression
 NTU-Tsinghua Research Workshop on Sustainable Infrastructure, Green neural codec: learning to compress for efficiency  
 
 2023.5  
-kuaishou, Towards Practical AI-based Image and Video Coding
+kuaishou, Towards Practical AI-based Image and Video Coding. 
+
+2023.6    
+Apollo-AIR workshop, Compression for Autonomous Driving
