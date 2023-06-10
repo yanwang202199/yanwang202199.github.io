@@ -11,7 +11,7 @@ author_profile: true
 
 I used to be a team leader at SenseTime, where I gain a solid experience on working with full-time researchers and young students.
 
-Opening research directions (although listed as different topics here, we always try to solve key problems in various fields through some common principles and techniques, for example, by investigating self-supervised learning, probabilistic inference or diffusion models)：   
+Opening research directions (although listed as different topics here, we always try to solve key problems in various fields through some common principles and techniques, for example, by investigating self-supervised learning, probabilistic inference or the general principle of information compression)：   
 
 (1) Neural data compression: efficient and effective model design, Neural sandwiched/augmented x264/5  
 
