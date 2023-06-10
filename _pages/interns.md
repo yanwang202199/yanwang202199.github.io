@@ -25,6 +25,8 @@ Opening research directions (although listed as different topics here, we always
 
 We have Postdoc and PhD positions (supervised by Prof. Ya-Qin Zhang), feel free to contact me by wangyan@air.tsinghua.edu.cn
 
+多歧路，今安在？  
+
 我们的目标是做一流的科学研究，发表高水平论文，扩展认知边界，推动前沿技术落地和产业进步   
 同时我们有丰富的产业界工作经验，落地过多项前沿AI算法和产品，熟悉AI产品从预研、开发到销售的整个流程   
 无论你毕业后的目标是学术界还是工业界，相信在这里都会有所收获
