@@ -19,6 +19,8 @@ ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling.
 Journal Reviewer  
 ESWA  
 TCSVT  
+Journal of Visual Communication and Image Representation  
+
 
 Editor  
 ESWA: Associate Editor 202302-
