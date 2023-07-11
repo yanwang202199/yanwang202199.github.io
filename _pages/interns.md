@@ -23,6 +23,8 @@ Opening research directions (although listed as different topics here, we always
 
 (5) Self-supervised learning and white-box neural network design inspired by compression    
 
+(6) AI + (safety) Science. I keep close collaboration with School of Safety Science, Tsinghua University        
+
 We have Postdoc and PhD positions (supervised by Prof. Ya-Qin Zhang), feel free to contact me by wangyan@air.tsinghua.edu.cn
 
 多歧路，今安在？  
