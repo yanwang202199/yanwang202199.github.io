@@ -10,11 +10,11 @@ author_profile: true
 Conference Reviewer  
 CVPR 2022，2023  
 ECCV 2022  
-AAAI 2023  
+AAAI 2023，2024    
 ICCV 2023  
 NeurIPS 2023  
 ICML 2023 Workshop "Neural Compression: From Information Theory to Applications"  
-ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. 
+ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling   
 
 Journal Reviewer  
 ESWA  
