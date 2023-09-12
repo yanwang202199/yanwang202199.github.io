@@ -13,6 +13,7 @@ https://github.com/tongdaxu/pytorch-improving-inference-for-neural-image-compres
 https://github.com/tongdaxu/YAECL-Yet-Another-Entropy-Coding-Library  
 
 Recommended Resources  
+https://github.com/tensorflow/compression  
 https://github.com/InterDigitalInc/CompressAI  
 https://github.com/facebookresearch/NeuralCompression  
 https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression (Reproduction of our CVPR 2021 paper checkerboard)  
