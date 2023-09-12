@@ -14,6 +14,7 @@ https://github.com/tongdaxu/YAECL-Yet-Another-Entropy-Coding-Library
 
 Recommended Resources  
 https://github.com/InterDigitalInc/CompressAI  
+https://github.com/facebookresearch/NeuralCompression  
 https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression (Reproduction of our CVPR 2021 paper checkerboard)  
 https://github.com/VincentChandelier/ELiC-ReImplemetation (Reproduction of our CVPR 2022 paper ELIC)  
 https://github.com/microsoft/DCVC   
