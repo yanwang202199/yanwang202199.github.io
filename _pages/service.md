@@ -17,6 +17,7 @@ ICLR 2024
 AISTATS 2024   
 ICML 2023 Workshop "Neural Compression: From Information Theory to Applications"  
 ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling   
+ICASSP 2024  
 
 Journal Reviewer  
 ESWA  
