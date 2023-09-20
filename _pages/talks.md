@@ -37,4 +37,7 @@ NTU-Tsinghua Research Workshop on Sustainable Infrastructure, Green neural codec
 kuaishou, Towards Practical AI-based Image and Video Coding. 
 
 2023.6    
-Apollo-AIR workshop, Compression for Autonomous Driving
+Apollo-AIR workshop, Compression for Autonomous Driving  
+
+2023.9  
+Foundation/World Models for Autonomous Driving, a Compression Perspective  
