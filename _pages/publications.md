@@ -10,24 +10,26 @@ author_profile: true
 
 Selected Publications:   
 
-1. Tongda Xu, Han Gao, Chenjian Gao, Yuanyuan Wang, Dailan He, Jinyong Pi, Jixiang Luo, Ziyu Zhu, Mao Ye, Hongwei Qin, Yan Wang, Jingjing, Ya-Qin Zhang, Bit allocation using optimization, ICML, 2023.
+Yanghao Li, Tongda Xu, Yan Wang, Jingjing Liu, Ya-Qin Zhang, Idempotent Learned Image Compression with Right-Inverse, NeurIPS, 2023.  
 
-2. Tongda Xu, Yan Wang, Dailan He, Chenjian Gao, Han Gao, Kunzan Liu, Hongwei Qin, Multiple-sample Neural Image Compression, NeurIPS, 2022.
+Tongda Xu, Han Gao, Chenjian Gao, Yuanyuan Wang, Dailan He, Jinyong Pi, Jixiang Luo, Ziyu Zhu, Mao Ye, Hongwei Qin, Yan Wang, Jingjing, Ya-Qin Zhang, Bit allocation using optimization, ICML, 2023.
 
-3. Chenjian Gao, Tongda Xu, Dailan He, Yan Wang, Hongwei Qin, Flexible Neural Image Compression via Code Editing, NeurIPS, 2022.
+Tongda Xu, Yan Wang, Dailan He, Chenjian Gao, Han Gao, Kunzan Liu, Hongwei Qin, Multi-Sample Training for Neural Image Compression, NeurIPS, 2022.
 
-4. Lina Guo, Xinjie Shi, Dailan He, Yuanyuan Wang, Rui Ma, Hongwei Qin, Yan Wang, Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain, CVPR, 2022.
+Chenjian Gao, Tongda Xu, Dailan He, Yan Wang, Hongwei Qin, Flexible Neural Image Compression via Code Editing, NeurIPS, 2022.
 
-5. Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang, ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding, CVPR, 2022. oral.  
+Lina Guo, Xinjie Shi, Dailan He, Yuanyuan Wang, Rui Ma, Hongwei Qin, Yan Wang, Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain, CVPR, 2022.
 
-6. Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin, Checkerboard context model for efficient learned image compression, CVPR, 2021.
+Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang, ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding, CVPR, 2022. oral.  
 
-7. Rundong Li, Yan Wang, Feng Liang, Hongwei Qin, Junjie Yan, Rui Fan, Fully quantized network for object detection, CVPR, 2019.
+Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin, Checkerboard context model for efficient learned image compression, CVPR, 2021.
+
+Rundong Li, Yan Wang, Feng Liang, Hongwei Qin, Junjie Yan, Rui Fan, Fully quantized network for object detection, CVPR, 2019.
 
 
   
   
 Selected tech reports and preprints:  
-1. Yu, H., Sun, Q., Hu, J., Xue, X., Luo, J., He, D., Li, Y., Wang, P., Wang, Y., Dai, Y. and Wang, Y., 2022. Evaluating the Practicality of Learned Image Compression. arXiv preprint arXiv:2207.14524.  
+Yu, H., Sun, Q., Hu, J., Xue, X., Luo, J., He, D., Li, Y., Wang, P., Wang, Y., Dai, Y. and Wang, Y., 2022. Evaluating the Practicality of Learned Image Compression. arXiv preprint arXiv:2207.14524.  
 
-2. He, D., Yang, Z., Chen, Y., Zhang, Q., Qin, H. and Wang, Y., 2022. Post-training quantization for cross-platform learned image compression. arXiv preprint arXiv:2202.07513.
+He, D., Yang, Z., Chen, Y., Zhang, Q., Qin, H. and Wang, Y., 2022. Post-training quantization for cross-platform learned image compression. arXiv preprint arXiv:2202.07513.
