@@ -23,7 +23,7 @@ Journal Reviewer
 ESWA  
 TCSVT  
 Journal of Visual Communication and Image Representation  
-
+Automatika  
 
 Editor  
 ESWA: Associate Editor 202302-
