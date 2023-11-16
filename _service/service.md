@@ -8,6 +8,7 @@ NeurIPS 2023
 Journal Reviewer  
 ESWA  
 TCSVT  
+Automatika  
 
 Editor  
 ESWA: Associate Editor 202302-
