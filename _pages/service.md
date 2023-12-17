@@ -24,6 +24,7 @@ ESWA
 TCSVT  
 Journal of Visual Communication and Image Representation  
 Automatika  
+International Journal of Digital Earth  
 
 Editor  
 ESWA: Associate Editor 202302-
