@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 IEEE   
-IEEE member，IEEE Signal Processing Society Member  
+IEEE member  
+IEEE Signal Processing Society Member  
+IEEE Standards Association Individual Membership  
 
 CAAI  
 会员  
@@ -17,4 +19,5 @@ CCF
 中国图象图形学学会（CSIG）    
 会员。专委：todo
 
-潜水很久的听众。感谢学会、组织对领域发展的无私贡献
+北京图象图形学学会（BSIG）  
+会员  
