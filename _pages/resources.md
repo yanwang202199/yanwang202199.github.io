@@ -9,6 +9,7 @@ author_profile: true
 
 Resources (ours):  
 https://github.com/tongdaxu/Bit-Allocation-Using-Optimization (Our ICML 2023)  
+https://github.com/tongdaxu/Idempotence-and-Perceptual-Image-Compression  （Our ICLR 2024）  
 https://github.com/tongdaxu/pytorch-improving-inference-for-neural-image-compression  
 https://github.com/tongdaxu/YAECL-Yet-Another-Entropy-Coding-Library  
 more to come  
