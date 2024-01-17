@@ -10,6 +10,8 @@ author_profile: true
 
 Selected Publications:   
 
+Tongda Xu, Dailan He, Ziran Zhu, Yanghao Li, Lina Guo, Yuanyuan Wang, Zhe Wang, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang, Idempotence and Perceptual Image Compression, ICLR, 2024. spotlight.  
+
 Yanghao Li, Tongda Xu, Yan Wang, Jingjing Liu, Ya-Qin Zhang, Idempotent Learned Image Compression with Right-Inverse, NeurIPS, 2023.  
 
 Tongda Xu, Han Gao, Chenjian Gao, Yuanyuan Wang, Dailan He, Jinyong Pi, Jixiang Luo, Ziyu Zhu, Mao Ye, Hongwei Qin, Yan Wang, Jingjing, Ya-Qin Zhang, Bit allocation using optimization, ICML, 2023.
