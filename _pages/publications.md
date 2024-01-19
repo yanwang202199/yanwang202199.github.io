@@ -32,6 +32,8 @@ Rundong Li, Yan Wang, Feng Liang, Hongwei Qin, Junjie Yan, Rui Fan, Fully quanti
   
   
 Selected tech reports and preprints:  
+Guo, L., Wang, Y., Xu, T., Luo, J., He, D., Ji, Z., Wang, S., Wang, Y. and Qin, H., 2023. Efficient Learned Lossless JPEG Recompression. arXiv preprint arXiv:2308.13287.   
+
 Yu, H., Sun, Q., Hu, J., Xue, X., Luo, J., He, D., Li, Y., Wang, P., Wang, Y., Dai, Y. and Wang, Y., 2022. Evaluating the Practicality of Learned Image Compression. arXiv preprint arXiv:2207.14524.  
 
 He, D., Yang, Z., Chen, Y., Zhang, Q., Qin, H. and Wang, Y., 2022. Post-training quantization for cross-platform learned image compression. arXiv preprint arXiv:2202.07513.
