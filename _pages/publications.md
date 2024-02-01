@@ -29,9 +29,14 @@ Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin, Checkerboard conte
 Rundong Li, Yan Wang, Feng Liang, Hongwei Qin, Junjie Yan, Rui Fan, Fully quantized network for object detection, CVPR, 2019.
 
 
+
+   
   
   
 Selected tech reports and preprints:  
+
+Xu, T., Zhang, Q., Li, Y., He, D., Wang, Z., Wang, Y., Qin, H., Wang, Y., Liu, J. and Zhang, Y.Q., 2023. Conditional Perceptual Quality Preserving Image Compression. arXiv preprint arXiv:2308.08154.  
+
 Guo, L., Wang, Y., Xu, T., Luo, J., He, D., Ji, Z., Wang, S., Wang, Y. and Qin, H., 2023. Efficient Learned Lossless JPEG Recompression. arXiv preprint arXiv:2308.13287.   
 
 Yu, H., Sun, Q., Hu, J., Xue, X., Luo, J., He, D., Li, Y., Wang, P., Wang, Y., Dai, Y. and Wang, Y., 2022. Evaluating the Practicality of Learned Image Compression. arXiv preprint arXiv:2207.14524.  
