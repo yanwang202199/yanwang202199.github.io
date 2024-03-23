@@ -18,6 +18,7 @@ more to come
 
 Recommended Resources  
 https://github.com/tensorflow/compression  
+https://github.com/google/codex   
 https://github.com/InterDigitalInc/CompressAI  
 https://github.com/facebookresearch/NeuralCompression  
 https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression (Reproduction of our CVPR 2021 paper checkerboard)  
