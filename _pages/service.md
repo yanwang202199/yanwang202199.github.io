@@ -22,7 +22,8 @@ ICPR 2024
 
 Journal Reviewer  
 ESWA  
-TCSVT  
+TCSVT   
+TMM  
 Journal of Visual Communication and Image Representation  
 Automatika  
 International Journal of Digital Earth  
