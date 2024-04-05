@@ -10,7 +10,7 @@ author_profile: true
 
 Selected Publications:   
 
-Zhang, Xinjie, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, and Jun Zhang. "Boosting Neural Representations for Videos with a Conditional Decoder, CVPR, 2024.   
+Zhang, Xinjie, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, and Jun Zhang. "Boosting Neural Representations for Videos with a Conditional Decoder, CVPR, 2024. Highlight.     
 
 Tongda Xu, Dailan He, Ziran Zhu, Yanghao Li, Lina Guo, Yuanyuan Wang, Zhe Wang, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang, Idempotence and Perceptual Image Compression, ICLR, 2024. spotlight.  
 
