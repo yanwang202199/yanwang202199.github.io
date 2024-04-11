@@ -29,4 +29,7 @@ Automatika
 International Journal of Digital Earth  
 
 Editor  
-ESWA: Associate Editor 202302-
+ESWA: Associate Editor 202302-  
+
+Session Chair   
+ICASSP 2024
