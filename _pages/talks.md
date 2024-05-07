@@ -40,4 +40,8 @@ kuaishou, Towards Practical AI-based Image and Video Coding.
 Apollo-AIR workshop, Compression for Autonomous Driving  
 
 2023.9  
-Foundation/World Models for Autonomous Driving, a Compression Perspective  
+Foundation/World Models for Autonomous Driving, a Compression Perspective    
+
+2024.5  
+Peking University, Idempotence-based robust and perceptual neural image compression  
+Peking University, Principled Approaches to Neural Image and Video Compression  
