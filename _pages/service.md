@@ -35,4 +35,4 @@ Session Chair
 ICASSP 2024
 
 Workshop organizer  
-1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics, ECCV 2024, Program Committee  
+1st Workshop on Cooperative Intelligence for Embodied AI, ECCV 2024, Program Committee  
