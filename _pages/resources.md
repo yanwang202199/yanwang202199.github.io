@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Resources (ours):  
+https://github.com/memberRE/AsyncDriver (Our ECCV 2024)   
 https://github.com/Xinjie-Q/Boosting-NeRV (Our CVPR 2024)  
 https://github.com/tongdaxu/Bit-Allocation-Using-Optimization (Our ICML 2023)  
 https://github.com/topriss/ILVC_RI (Our NeurIPS 2023)  
