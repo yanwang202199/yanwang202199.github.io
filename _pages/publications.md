@@ -10,6 +10,12 @@ author_profile: true
 
 Selected Publications:   
 
+Chen, Yuan, Zi-han Ding, Ziqin Wang, Yan Wang, Lijun Zhang, and Si Liu. Asynchronous Large Language Model Enhanced Planner for Autonomous Driving, ECCV, 2024.  
+
+Du, Penghui, Yu Wang, Yifan Sun, Luting Wang, Yue Liao, Gang Zhang, Errui Ding, Yan Wang, Jingdong Wang, and Si Liu. LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction, ECCV, 2024.  
+
+Zhang, Xinjie, Xingtong Ge, Tongda Xu, Dailan He, Yan Wang, Hongwei Qin, Guo Lu, Jing Geng, and Jun Zhang. GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting, ECCV, 2024.  
+
 Zhang, Xinjie, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, and Jun Zhang. Boosting Neural Representations for Videos with a Conditional Decoder, CVPR, 2024. Highlight.    
 
 Ge, Xingtong, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, and Hongwei Qin. Task-Aware Encoder Control for Deep Video Compression, CVPR, 2024.  
