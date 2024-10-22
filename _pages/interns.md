@@ -25,7 +25,7 @@ Opening research directions (although listed as different topics here, we always
 
 (6) AI + (safety) Science. I keep close collaboration with School of Safety Science, Tsinghua University        
 
-We have Postdoc and PhD positions (supervised by Prof. Ya-Qin Zhang), feel free to contact me by wangyan@air.tsinghua.edu.cn
+We have Postdoc and PhD positions (supervised by Prof. Ya-Qin Zhang), feel free to contact me by wangyan202199@163.com  
 
 多歧路，今安在？  
 
