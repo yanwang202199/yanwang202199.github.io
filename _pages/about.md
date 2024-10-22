@@ -24,7 +24,7 @@ He is also interested in generative models, and the connection between (self-sup
 
 Email address:
 
-wangyan@air.tsinghua.edu.cn
+wangyan202199@163.com
 
 
 
