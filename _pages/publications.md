@@ -10,6 +10,8 @@ author_profile: true
 
 Selected Publications:   
 
+Zhang, Xinjie, Shenyuan Gao, Zhening Liu, Jiawei Shao, Xingtong Ge, Dailan He, Tongda Xu, Yan Wang, and Jun Zhang. Content-aware Masked Image Modeling Transformer for Stereo Image Compression, AAAI, 2025.     
+
 Chen, Yuan, Zi-han Ding, Ziqin Wang, Yan Wang, Lijun Zhang, and Si Liu. Asynchronous Large Language Model Enhanced Planner for Autonomous Driving, ECCV, 2024.  
 
 Du, Penghui, Yu Wang, Yifan Sun, Luting Wang, Yue Liao, Gang Zhang, Errui Ding, Yan Wang, Jingdong Wang, and Si Liu. LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction, ECCV, 2024.  
