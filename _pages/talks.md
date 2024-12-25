@@ -44,4 +44,7 @@ Foundation/World Models for Autonomous Driving, a Compression Perspective
 
 2024.5  
 Peking University, Idempotence-based robust and perceptual neural image compression  
-Peking University, Principled Approaches to Neural Image and Video Compression  
+Peking University, Principled Approaches to Neural Image and Video Compression   
+
+2024.11   
+USTC and DCM, Encoder control and optimization for AI Codec   
