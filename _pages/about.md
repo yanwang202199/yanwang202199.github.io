@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yan Wang is a research assistant professor at the Institute for AI Industry Research (AIR), Tsinghua University. 
+Dr. Yan Wang is an assistant professor at the Institute for AI Industry Research (AIR), Tsinghua University. 
 
 Before joining AIR, he was a senior researcher and team leader at SenseTime, where he and his team focus on research and product development in the fields of object detection, model compression and data compression powered by AI. 
 
@@ -40,7 +40,7 @@ Education:
 
 Career:
 
-2022-now Institute for AI Industry Research (AIR), Tsinghua University, Research Assistant Professor
+2022-now Institute for AI Industry Research (AIR), Tsinghua University, Assistant Professor
 
 2018-2021 SenseTime. Intern, Researcher, Senior Researcher and team leader (leading around 10 fulltime researchers and engineers, with 20 interns for research and product development)
 
