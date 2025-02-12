@@ -21,10 +21,10 @@ main:
   - title: "Lecture"
     url: /notes/
     
-  - title: "For students and interns"
+  - title: "Students"
     url: /interns/  
     
-  - title: "Recommended Resources"
+  - title: "Resources"
     url: /resources/ 
 
   #- title: "Teaching"
