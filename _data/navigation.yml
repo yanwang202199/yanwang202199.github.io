@@ -16,7 +16,10 @@ main:
     url: /projects/
     
   - title: "学会"
-    url: /community/
+    url: /community/   
+
+  - title: "Lecture"
+    url: /notes/
     
   - title: "For students and interns"
     url: /interns/  
