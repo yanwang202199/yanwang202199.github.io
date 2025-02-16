@@ -10,6 +10,10 @@ author_profile: true
 
 Selected Publications:   
 
+Xu, Tongda, Xiyan Cai, Xinjie Zhang, Xingtong Ge, Dailan He, Ming Sun, Jingjing Liu, Ya-Qin Zhang, Jian Li, and Yan Wang. Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior, ICLR, 2025.      
+
+Li, Xiang, Pengfei Li, Yupeng Zheng, Wei Sun, Yan Wang, and Yilun Chen. Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving, ICLR, 2025.    
+
 Zhang, Xinjie, Shenyuan Gao, Zhening Liu, Jiawei Shao, Xingtong Ge, Dailan He, Tongda Xu, Yan Wang, and Jun Zhang. Content-aware Masked Image Modeling Transformer for Stereo Image Compression, AAAI, 2025.     
 
 Chen, Yuan, Zi-han Ding, Ziqin Wang, Yan Wang, Lijun Zhang, and Si Liu. Asynchronous Large Language Model Enhanced Planner for Autonomous Driving, ECCV, 2024.  
