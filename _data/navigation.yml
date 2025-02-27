@@ -18,8 +18,8 @@ main:
   - title: "学会"
     url: /community/   
 
-  - title: "Lecture"
-    url: /notes/
+  #- title: "Lecture"
+  #  url: /notes/
     
   - title: "Students"
     url: /interns/  
