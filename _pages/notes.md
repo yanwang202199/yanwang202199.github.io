@@ -9,6 +9,5 @@ author_profile: true
 {% include base_path %}
 
 
-An introduction to advanced deep learning  
-
+An introduction to advanced deep learning (in preparation).     
 
