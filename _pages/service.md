@@ -37,3 +37,4 @@ ICASSP 2024
 
 Workshop organizer  
 1st Workshop on Cooperative Intelligence for Embodied AI, ECCV 2024, Program Committee  
+2nd MEIS Workshop @CVPR2025 Multi-Agent Embodied Intelligent Systems Meet Generative-AI Era: Opportunities, Challenges and Futures, Program Committee   
