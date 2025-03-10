@@ -25,6 +25,7 @@ Journal Reviewer
 ESWA  
 TCSVT   
 TMM  
+TOMM   
 Journal of Visual Communication and Image Representation  
 Automatika  
 International Journal of Digital Earth  
