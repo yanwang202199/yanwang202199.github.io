@@ -10,6 +10,10 @@ author_profile: true
 
 Selected Publications:   
 
+Zeng, Fanhu, Hao Tang, Yihua Shao, Siyu Chen, Ling Shao, Yan Wang. MambaIC: State Space Models for High-Performance Learned Image Compression, CVPR, 2025
+
+Xu, Tongda, Jiahao Li, Bin Li, Yan Wang, Ya-Qin Zhang, Yan Lu.  PICD: Versatile Perceptual Image Compression with Diffusion Rendering, CVPR 2025
+
 Xu, Tongda, Xiyan Cai, Xinjie Zhang, Xingtong Ge, Dailan He, Ming Sun, Jingjing Liu, Ya-Qin Zhang, Jian Li, and Yan Wang. Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior, ICLR, 2025.      
 
 Li, Xiang, Pengfei Li, Yupeng Zheng, Wei Sun, Yan Wang, and Yilun Chen. Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving, ICLR, 2025.    
