@@ -9,6 +9,8 @@ author_profile: true
 
 Resources (ours):  
 https://github.com/AuroraZengfh/MambaIC (Our CVPR 2025)     
+https://github.com/tongdaxu/Rethinking-Diffusion-Posterior-Sampling-From-Conditional-Score-Estimator-to-Maximizing-a-Posterior (Our ICLR 2025)     
+https://github.com/getterupper/PreWorld (Our ICLR 2025)
 https://github.com/Xinjie-Q/GaussianImage (Our ECCV 2024)  
 https://github.com/memberRE/AsyncDriver (Our ECCV 2024)   
 https://github.com/Xinjie-Q/Boosting-NeRV (Our CVPR 2024)  
