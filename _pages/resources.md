@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Resources (ours):  
+https://github.com/AuroraZengfh/MambaIC (Our CVPR 2025)     
 https://github.com/Xinjie-Q/GaussianImage (Our ECCV 2024)  
 https://github.com/memberRE/AsyncDriver (Our ECCV 2024)   
 https://github.com/Xinjie-Q/Boosting-NeRV (Our CVPR 2024)  
