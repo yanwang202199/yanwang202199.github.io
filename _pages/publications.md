@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Selected Publications:   
+Selected Publications (updated by 2025.4):   
 
 Zeng, Fanhu, Hao Tang, Yihua Shao, Siyu Chen, Ling Shao, Yan Wang. MambaIC: State Space Models for High-Performance Learned Image Compression, CVPR, 2025
 
