@@ -10,6 +10,17 @@ author_profile: true
 Area Chair   
 NeurIPS 2025     
 
+Editor  
+ESWA: Associate Editor 202302-  
+
+Workshop organizer  
+1st Workshop on Cooperative Intelligence for Embodied AI, ECCV 2024, Program Committee  
+2nd MEIS Workshop @CVPR2025 Multi-Agent Embodied Intelligent Systems Meet Generative-AI Era: Opportunities, Challenges and Futures, Program Committee   
+
+Session Chair      
+ICASSP 2024    
+
+
 Conference Reviewer  
 CVPR 2022，2023，2024，2025         
 ECCV 2022，2024    
@@ -34,14 +45,5 @@ Journal of Visual Communication and Image Representation
 Automatika  
 International Journal of Digital Earth  
 
-Editor  
-ESWA: Associate Editor 202302-  
-
-Workshop organizer  
-1st Workshop on Cooperative Intelligence for Embodied AI, ECCV 2024, Program Committee  
-2nd MEIS Workshop @CVPR2025 Multi-Agent Embodied Intelligent Systems Meet Generative-AI Era: Opportunities, Challenges and Futures, Program Committee   
-
-Session Chair      
-ICASSP 2024
 
 
