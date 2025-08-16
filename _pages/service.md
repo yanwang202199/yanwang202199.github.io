@@ -9,6 +9,8 @@ author_profile: true
 
 Area Chair   
 NeurIPS 2025     
+ICLR 2026   
+
 
 Editor  
 ESWA: Associate Editor 202302-  
