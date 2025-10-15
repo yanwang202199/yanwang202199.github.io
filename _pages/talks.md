@@ -47,4 +47,10 @@ Peking University, Idempotence-based robust and perceptual neural image compress
 Peking University, Principled Approaches to Neural Image and Video Compression   
 
 2024.11   
-USTC and DCM, Encoder control and optimization for AI Codec   
+USTC and DCM, Encoder control and optimization for AI Codec     
+
+2025    
+奇瑞大卓：自动驾驶视觉语言世界模型    
+航天智能院：生成模型及视觉应用   
+
+
