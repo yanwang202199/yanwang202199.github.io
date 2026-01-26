@@ -37,7 +37,8 @@ WACV 2026
 ICRA 2025  
 ACCV 2024  
 ICASSP 2024, 2025, 2026         
-ICPR 2024  
+ICPR 2024, 2026    
+
 
 Journal Reviewer  
 ESWA  
