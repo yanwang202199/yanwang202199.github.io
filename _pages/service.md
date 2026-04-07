@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Area Chair   
-NeurIPS 2025     
+NeurIPS 2025，2026          
 ICLR 2026   
 
 
@@ -35,7 +35,8 @@ AISTATS 2024, 2025, 2026
 ACMMM 2025, 2026        
 BMVC 2026    
 WACV 2026    
-ICRA 2025  
+ICRA 2025    
+IROS 2026    
 ACCV 2024  
 ICASSP 2024, 2025, 2026         
 ICPR 2024         
